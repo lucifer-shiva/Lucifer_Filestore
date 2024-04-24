@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
-</p>
+
 <h1 align="center">
-  VJ FILE STORE BOT
+  Lucifer FILE STORE BOT
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+Yt-@Tech_VJ!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Tech+VJ;Because+He+Public+The+Paid+Repo;Thank+You!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Lucifer-FILE-STORE-BOT;A+Highly+Advance+File+Store+Bot;Made+By+@Lucifer_botz!;With+Clone+Feature+Stream/Download+Link;Custom+Url+Shortner+Auto+Delete+Feature;A+Bot+With+Fully+Advanced+Feature!;Must+Give+Credit+To+Lucifer_botz;Because+He+Public+The+Paid+Repo;Thank+You!)
 </p>
 
 ## Features
@@ -29,8 +27,8 @@
 - `API_HASH` : Get From [my.telegram.org](https://my.telegram.org)
 - `BOT_TOKEN` : Get From [BotFather](https://telegram.me/BotFather)
 - `BOT_USERNAME` : Your Bot Username Without @
-- `DB_URI` : Mongodb Database Url For Main Bot [Tutorial Watch Here](https://youtu.be/I36_OTWvT2w)
-- `CDB_URI` : Mongodb Database Url For Clone Bot [Tutorial Watch Here](https://youtu.be/I36_OTWvT2w)
+- `DB_URI` : Mongodb Database Url For Main Bot 
+- `CDB_URI` : Mongodb Database Url For Clone Bot 
 - `ADMINS` : It mean Admin/Owner Id For Broadcasting Message.
 - `LOG_CHANNEL` : Log channel id start with -100xxxxxx
 - `BIN_CHANNEL` : Bin channel id start with -100xxxxxx
@@ -83,13 +81,13 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01)
+💝 Credit Goes To [Lucifer](https://telegram.me/@lucifer_botz)
 
-🖍️ This Code Is Fully Written Or Coded And Public By [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+🖍️ This Code Is Fully Written Or Coded And Public By [Lucifer](https://telegram.me/@lucifer_botz) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [Lucifer](https://telegram.me/@lucifer_botz)
 
 </b>
 </details>
@@ -98,16 +96,16 @@ Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
 
-- YouTube Channel : [Tech VJ](https://youtube.com/@Tech_VJ)
-- Telegram Channel : [VJ Botz](https://telegram.me/VJ_Botz)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://instagram.com/tech.vj)
+
+- Telegram Channel : [Lucifer](https://telegram.me/@lucifer_botz_channel)
+
 
 </b>
 </details>
 
 
-### Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+### Copyright ©️ [Lucifer](https://telegram.me/@lucifer_botz)
+
 
 <b>Selling This Repo Or Code Of This Repo For Money Is Strictly Prohibited 🚫</b>
 
